@@ -64,7 +64,7 @@
 //     if(array[i] % 2 == 0)
 //     {
 //         System.Console.Write($"{array[i]} ");
-     
+
 //     }
 //      i++;
 // }
@@ -92,4 +92,9 @@
 // System.Console.Write(max);
 
 
+//Счетный цикл (цикл for)
+// for (int i = 0; i < 10; i++)
+// {
+//     ////....
+// }
 
