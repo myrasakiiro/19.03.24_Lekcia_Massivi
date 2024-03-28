@@ -56,16 +56,40 @@
 // Чётные: 36
 
 
-//int n = 10;
-int[] array = {1,5,4,6,9,3,2,5,4,1};
-int i = 0;
-while( i < array.Length)
-{
-    if(array[i] % 2 == 0)
-    {
-        System.Console.Write($"{array[i]} ");
+// //int n = 10;
+// int[] array = {1,5,4,6,9,3,2,5,4,1};
+// int i = 0;
+// while( i < array.Length)
+// {
+//     if(array[i] % 2 == 0)
+//     {
+//         System.Console.Write($"{array[i]} ");
      
-    }
-     i++;
-}
+//     }
+//      i++;
+// }
+
+
+
+// Задача №3
+// Дано N гирь с разным весом в случайном
+// порядке. Определить вес самой тяжелой
+// гири.
+
+// int n = 5;
+// int[] array = {2,4,7,3,9};
+// int i = 0;
+// int max = array[0];
+
+// while(i < n)
+// {
+//     if(array[i] > max)
+// {
+// max = array[i];
+// }
+// i++;
+// }
+// System.Console.Write(max);
+
+
 
